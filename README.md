@@ -24,7 +24,7 @@ Currently building **Audia** — a music social platform where your Spotify data
 
 **[Audia](https://github.com/serenren13/audiaclone)** — music social platform built on Spotify data. React + Node + Firebase + Socket.io. Real-time messaging, forum system with track attachments, now playing bar, user discovery. Independently continuing post-team with last.fm integration, synced lyrics, and a MongoDB migration on the roadmap.
 
-**[WebGL Solar System](https://github.com/serenren13/serenren13.github.io)** — 3D solar system simulation in the browser. Orbit dynamics, textured spheres, camera controls. Built from scratch in WebGL/GLSL — no three.js, no shortcuts.
+**[WebGL Solar System](https://github.com/serenren13/webgl-solar-system)** — 3D solar system simulation in the browser. Orbit dynamics, textured spheres, camera controls. Built from scratch in WebGL/GLSL — no three.js, no shortcuts.
 
 ---
 
