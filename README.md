@@ -24,7 +24,9 @@ Currently building **Audia** — a music social platform where your Spotify data
 
 **[Audia](https://github.com/serenren13/audiaclone)** — music social platform built on Spotify data. React + Node + Firebase + Socket.io. Real-time messaging, forum system with track attachments, now playing bar, user discovery. Independently continuing post-team with last.fm integration, synced lyrics, and a MongoDB migration on the roadmap.
 
-**[WebGL Solar System](https://github.com/serenren13/webgl-solar-system)** — 3D solar system simulation in the browser. Orbit dynamics, textured spheres, camera controls. Built from scratch in WebGL/GLSL — no three.js, no shortcuts.
+**[Orrery](https://github.com/serenren13/orrery)** — real-time interactive solar system in the browser. All 8 planets with NASA 2K textures, Keplerian orbital mechanics, per-planet glow rings, and three camera modes including a top-down rainbow orrery view. Raw WebGL/GLSL — no Three.js. [Live demo →](https://serenren13.github.io/orrery)
+ 
+**[ChatBot](https://github.com/serenren13/chatBot)** — full-stack ChatGPT clone built with React, TypeScript, and Express. Conversation history passed on every request so the AI actually remembers context. OpenAI GPT-3.5-turbo on the backend, Vite + axios on the frontend.
 
 ---
 
